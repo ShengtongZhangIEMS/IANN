@@ -1,0 +1,22 @@
+Metadata-Version: 2.1
+Name: iann-Shengtong-Zhang
+Version: 0.0.1
+Summary: IANN for function visualization
+Home-page: https://github.com/ShengtongZhangIEMS/IANN
+Author: Shengtong Zhang
+Author-email: shengtongzhang2018@u.northwestern.edu
+License: UNKNOWN
+Description: # IANN
+        It is a function visualization package for Interpretable Architecture Neural Network (IANN)
+        
+        It has two classes inside
+        
+        References:
+        
+        
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.5
+Description-Content-Type: text/markdown
