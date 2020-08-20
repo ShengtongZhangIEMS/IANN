@@ -1,6 +1,6 @@
 Metadata-Version: 2.1
 Name: iann
-Version: 0.0.1
+Version: 0.0.2
 Summary: IANN for function visualization
 Home-page: https://github.com/ShengtongZhangIEMS/IANN
 Author: Shengtong Zhang
@@ -9,7 +9,10 @@ License: UNKNOWN
 Description: # IANN
         It is a function visualization package for Interpretable Architecture Neural Network (IANN)
         
-        It has two classes inside
+        It has three different structures:
+        Original Variable Hierarchical (OVH)
+        Disjoint Active Subspace Hierarchical (DASH)
+        Additive 
         
         References:
         

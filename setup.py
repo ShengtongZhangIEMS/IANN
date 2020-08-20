@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="iann", # Replace with your own username
-    version="0.0.1",
+    version="0.0.2",
     author="Shengtong Zhang",
     author_email="shengtongzhang2018@u.northwestern.edu",
     description="IANN for function visualization",
