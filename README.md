@@ -1,5 +1,5 @@
 # IANN
-It is a function visualization package for Interpretable Architecture Neural Network (IANN) 
+This is a black-box function visualization package for Interpretable Architecture Neural Network (IANN) 
 
 It has two specific structure, each of which can be efficiently represented by IANN, OVH and DASH.   
 
