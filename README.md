@@ -9,9 +9,8 @@ It has two specific structure, each of which can be efficiently represented by I
 
 **Disjoint Active Subspace Hierarchical (DASH):** construct several disjoint groups first and visualize the effects of those groups instead.  
 **Pros:** Less visualization plots
+
 **Cons:** Interpreting the effects of the original variables has to go through each group  
 
-**Additive pre-process:**  
-
-**References:**  
+The paper is submitted to **Journal of Computational and Graphical Statistics**
 
