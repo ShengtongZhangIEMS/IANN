@@ -3,7 +3,7 @@ This is a black-box function visualization package for Interpretable Architectur
 
 The basic idea of IANN is to approximate the black-box function $f$ by
 
-$$f(\mathbf{x}) = g(x_j, h(x_{\j}),$$
+$$f(\mathbf{x}) = g(x_j, h(x_{\setminus{j}}),$$
 
 for some input $x_j$, and two continuous functions $g$ and $h$. To visualize the effect of $x_j$, one can construct a 3D plot with $f$ vs. $x_j$ and $h$. Then, the IANN proceeds in a hierarchical way to further approximate $h$ with a similar structure.
 
