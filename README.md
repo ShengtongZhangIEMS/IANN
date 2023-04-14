@@ -25,4 +25,5 @@ The main idea is to approximat the black-box function $f$ by
 $$f(\mathbf{x}) = g(h_1(x_{J_1}), h_2(x_{J_2})),$$
 for some subset of inputs $x_{J_1}$ and $x_{J_2}$. To better facilitate visualization, our algorithms automatically finds $x_{J_1}$ and $x_{J_2}$ that have balanced number of inputs and are encouraged to be disjoint with each other. 
 
-We also incorporate a User Interface so that users can interact with the BIANN visualization plots and directly observe the effects of the inputs on the plots.[Link text](./BIANN/interface/plane_wave.ipynb)
+We also incorporate a User Interface so that users can interact with the BIANN visualization plots and directly observe the effects of the inputs on the plots. See this [Jupyter Notebook](./BIANN/interface/plane_wave.ipynb)
+![image](./BIANN/interface/gui.PNG)  
