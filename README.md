@@ -7,11 +7,8 @@ It has two specific structure, each of which can be efficiently represented by I
 ![image](./paper_fig/OVH_eg.png)  
 
 
-**Disjoint Active Subspace Hierarchical (DASH):** construct several disjoint groups first and visualize the effects of those groups instead.  
+**Disjoint Active Subspace Hierarchical (DASH):** construct groups of disjoint linear combinations of the inputs and visualize the effects on $f$ with the groups as the inputs.  
 
-**Pros:** Less visualization plots
-
-**Cons:** Interpreting the effects of the original variables has to go through each group  
 
 The paper is submitted to **Journal of Computational and Graphical Statistics**
 
